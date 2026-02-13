@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+mistralai
+python-dotenv
+Pillow
+numpy
+easyocr
