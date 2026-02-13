@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+output_*.pdf
+editable_*.pdf
+*_output.txt
+*_results.txt
